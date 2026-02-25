@@ -186,7 +186,8 @@ The focus was not just on visualization, but on delivering decision-oriented ins
 
 ## 👩‍💻 Author
 Harshitha Salian
-Aspiring Data Analyst skilled in SQL, Excel, Power BI & Python
+
+*Aspiring Data Analyst skilled in SQL, Excel, Power BI & Python*
 
 LinkedIn: https://www.linkedin.com/in/salianharshitha/
 

@@ -30,9 +30,9 @@ This dashboard provides a 360° view of supply chain performance across **5 supp
 ```
 supply-chain-dashboard/
 │
-├── SupplyChainDashboard.pbix       # Main Power BI file
-├── data/
-│   └── supply_chain_data.csv       # Source dataset
+├── Supply Chain Performance Dashboard.pbix      # Main Power BI file
+├── Dataset/
+│   └── supply_chain_data.csv                    # Source dataset
 ├── screenshots/
 │   ├── executive_overview.png
 │   ├── ops_production.png
@@ -177,8 +177,8 @@ The focus was not just on visualization, but on delivering decision-oriented ins
 ## 🚀 How to Use
 
 1. Clone or download this repository.
-2. Open `SupplyChainDashboard.pbix` in **Power BI Desktop**.
-3. If prompted, update the data source path to point to `data/supply_chain_data.csv`.
+2. Open `Supply Chain Performance Dashboard.pbix` in **Power BI Desktop**.
+3. If prompted, update the data source path to point to `Dataset/supply_chain_data.csv`.
 4. Refresh the data and explore all three report pages.
 5. Use the slicers on each page to filter by product type, supplier, or transportation mode.
 

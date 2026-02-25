@@ -144,13 +144,13 @@ Each page includes interactive slicers to drill down by:
 ## 📸 Screenshots
 
 ### Executive Overview
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](screenshots/executive_overview.PNG)
 
 ### Ops & Production Performance
-![Ops & Production](screenshots/ops_production.png)
+![Ops & Production](screenshots/ops_production.PNG)
 
 ### Logistics & Quality Performance
-![Logistics & Quality](screenshots/logistics_quality.png)
+![Logistics & Quality](screenshots/logistics_quality.PNG)
 
 ---
 
